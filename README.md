@@ -1,5 +1,5 @@
 # streamseqs
-![pytest-badge](https://github.com/osthomas/streamseqstes/actions/workflows/pytest.yaml/badge.svg)
+![pytest-badge](https://github.com/osthomas/streamseqs/actions/workflows/pytest.yaml/badge.svg)
 
 `streamseqs` is a tiny package to quickly read in sequences from stdin or from
 (compressed) FAST(A/Q) files from disk.
